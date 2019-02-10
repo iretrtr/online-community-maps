@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>prog_tesi</title>
+  <script src="js/library/jquery-3.3.1.js"></script>
+  <script src="js/library/d3.js"></script>
+  <script src="js/library/d3-delaunay.js"></script>
+  <script src="js/library/d3-voronoi.js"></script>
+  <style>
+  svg {
+    background-color: #5E4FA2;
+  }
+
+   /* .celle {
+    stroke: grey;
+    stroke-width: 0px;
+  } */
+
+}
+  </style>
+</head>
+
+<body>
+  <svg id="svg" width="1000" height="600"></svg>
+  <div>
+    <input type:"text" id="community" name="community_name" value="lgbt">
+    <button onclick="generate()">Genera Mappa</button>
+    <button onclick="download_svg()">Download SVG &darr;</button>
+  </div>
+  <script  src="js/index.js"></script>
+</body>
+</html>
