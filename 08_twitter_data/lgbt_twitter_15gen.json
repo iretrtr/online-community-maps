@@ -1,0 +1,1501 @@
+{
+  "statuses": [{
+    "created_at": "Tue Jan 15 00:36:45 +0000 2019",
+    "id": 1084972621442224128,
+    "id_str": "1084972621442224128",
+    "text": "Todos os dias algu\u00e9m me pergunta se o @CarlosBolsonaro \u00e9 gay,pelo amor as bruxas, parem.\n\nEu n\u00e3o sei! \n\nMas espero\u2026 https:\/\/t.co\/3xUqeUfrSk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "CarlosBolsonaro",
+        "name": "Carlos Bolsonaro",
+        "id": 68712576,
+        "id_str": "68712576",
+        "indices": [38, 54]
+      }],
+      "urls": [{
+        "url": "https:\/\/t.co\/3xUqeUfrSk",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084972621442224128",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [116, 139]
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "pt",
+      "result_type": "popular"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 69358153,
+      "id_str": "69358153",
+      "name": "Patr\u00edcia L\u00e9lis",
+      "screen_name": "lelispatricia",
+      "location": "Washington, DC",
+      "description": "Feminst!",
+      "url": "https:\/\/t.co\/gmBtP1MCib",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/gmBtP1MCib",
+            "expanded_url": "https:\/\/patricialelis.com.br\/",
+            "display_url": "patricialelis.com.br",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 57485,
+      "friends_count": 192,
+      "listed_count": 224,
+      "created_at": "Thu Aug 27 18:00:32 +0000 2009",
+      "favourites_count": 2061,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 1529,
+      "lang": "pt",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme7\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme7\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1064579406830739456\/wqzQ3QAb_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1064579406830739456\/wqzQ3QAb_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/69358153\/1541976324",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "E809CE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "C2A9C7",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 565,
+    "favorite_count": 4234,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+  }, {
+    "created_at": "Mon Jan 14 13:33:18 +0000 2019",
+    "id": 1084805659068121088,
+    "id_str": "1084805659068121088",
+    "text": ".\u2066@LindseyGrahamSC\u2069 has long been a consistent opponent of LGBT equality, opposing everything from marriage equalit\u2026 https:\/\/t.co\/yCAiTRyhqD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "LindseyGrahamSC",
+        "name": "Lindsey Graham",
+        "id": 432895323,
+        "id_str": "432895323",
+        "indices": [2, 18]
+      }],
+      "urls": [{
+        "url": "https:\/\/t.co\/yCAiTRyhqD",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084805659068121088",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 27493883,
+      "id_str": "27493883",
+      "name": "Jon Cooper",
+      "screen_name": "joncoopertweets",
+      "location": "New York",
+      "description": "Chairman of @TheDemCoalition, the nation's largest grassroots Resistance organization. #Resist Views=mine",
+      "url": "https:\/\/t.co\/mzKvoqQjrq",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/mzKvoqQjrq",
+            "expanded_url": "http:\/\/www.DemocraticCoalition.org",
+            "display_url": "DemocraticCoalition.org",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 229738,
+      "friends_count": 22390,
+      "listed_count": 1582,
+      "created_at": "Sun Mar 29 20:12:52 +0000 2009",
+      "favourites_count": 72569,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 89250,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1083486434491801607\/4y77Fe7n_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1083486434491801607\/4y77Fe7n_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/27493883\/1445967521",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 197,
+    "favorite_count": 298,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Mon Jan 14 17:33:54 +0000 2019",
+    "id": 1084866206023278592,
+    "id_str": "1084866206023278592",
+    "text": "Very disturbing reports out of Chechnya about renewed persecution &amp; detention of #LGBT people, inc 2 deaths in cust\u2026 https:\/\/t.co\/EBwqU7oRSu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "LGBT",
+        "indices": [85, 90]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/EBwqU7oRSu",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084866206023278592",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [121, 144]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 112398730,
+      "id_str": "112398730",
+      "name": "Jeremy Hunt",
+      "screen_name": "Jeremy_Hunt",
+      "location": "",
+      "description": "Foreign Secretary & South West Surrey MP",
+      "url": "https:\/\/t.co\/25piN3vuwU",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/25piN3vuwU",
+            "expanded_url": "http:\/\/www.jeremyhunt.org",
+            "display_url": "jeremyhunt.org",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 143917,
+      "friends_count": 584,
+      "listed_count": 2175,
+      "created_at": "Mon Feb 08 10:38:50 +0000 2010",
+      "favourites_count": 69,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 3720,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1064558305098547200\/Kxa-Uu7i_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1064558305098547200\/Kxa-Uu7i_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/112398730\/1539188044",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 84,
+    "favorite_count": 132,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "created_at": "Mon Jan 14 22:54:53 +0000 2019",
+    "id": 1084946984438546432,
+    "id_str": "1084946984438546432",
+    "text": "Pawel Adamowicz, Maire de #Gdansk \u00e9tait un homme de convictions, courageux, pro #europ\u00e9en, d\u00e9fenseur des minorit\u00e9s,\u2026 https:\/\/t.co\/noZmjS6P7z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "Gdansk",
+        "indices": [26, 33]
+      }, {
+        "text": "europ\u00e9en",
+        "indices": [80, 89]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/noZmjS6P7z",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084946984438546432",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "fr"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 83120914,
+      "id_str": "83120914",
+      "name": "Fabienne Keller",
+      "screen_name": "fabienne_keller",
+      "location": "Strasbourg - Paris",
+      "description": "S\u00e9natrice du Bas-Rhin,VP Com Finances,\u00e9lue \u00e0 Strasbourg,ex porte parole d'@alainjuppe, Vice-pr\u00e9sidente d\u2019@agir_officiel https:\/\/t.co\/CG67Ykevjj",
+      "url": "https:\/\/t.co\/ZMRrrRsVPj",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/ZMRrrRsVPj",
+            "expanded_url": "http:\/\/www.fabiennekeller.fr",
+            "display_url": "fabiennekeller.fr",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "https:\/\/t.co\/CG67Ykevjj",
+            "expanded_url": "http:\/\/www.agir-ladroiteconstructive.fr",
+            "display_url": "agir-ladroiteconstructive.fr",
+            "indices": [120, 143]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 30968,
+      "friends_count": 13288,
+      "listed_count": 518,
+      "created_at": "Sat Oct 17 12:24:58 +0000 2009",
+      "favourites_count": 2559,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 6238,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "398ED4",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/901901339579600896\/CdqwFDpz_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/901901339579600896\/CdqwFDpz_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/83120914\/1547409484",
+      "profile_link_color": "00576B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "5DBA00",
+      "profile_text_color": "0C2869",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 100,
+    "favorite_count": 200,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  }, {
+    "created_at": "Mon Jan 14 08:12:43 +0000 2019",
+    "id": 1084724982528102400,
+    "id_str": "1084724982528102400",
+    "text": "Two young women stood before reporters in one of India\u2019s poorest districts and declared themselves married. Now, th\u2026 https:\/\/t.co\/HxZkGWucKT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/HxZkGWucKT",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084724982528102400",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 45577619,
+      "id_str": "45577619",
+      "name": "Betwa Sharma",
+      "screen_name": "betwasharma",
+      "location": "New Delhi",
+      "description": "Politics Editor, @HuffPostIndia",
+      "url": "https:\/\/t.co\/u5tMnAZLef",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/u5tMnAZLef",
+            "expanded_url": "https:\/\/www.huffingtonpost.in\/author\/betwa-sharma\/",
+            "display_url": "huffingtonpost.in\/author\/betwa-s\u2026",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4700,
+      "friends_count": 328,
+      "listed_count": 135,
+      "created_at": "Mon Jun 08 14:37:03 +0000 2009",
+      "favourites_count": 376,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4547,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/975781930926071808\/_I__o_wT_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/975781930926071808\/_I__o_wT_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/45577619\/1411929294",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 71,
+    "favorite_count": 101,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Sun Jan 13 19:40:09 +0000 2019",
+    "id": 1084535593542082561,
+    "id_str": "1084535593542082561",
+    "text": "Este cartel que dice \"No permitimos 'maricones'\" est\u00e1 en un caf\u00e9 en Novy Arbat, una de las calles principales de Mo\u2026 https:\/\/t.co\/dzXbALvPUL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/dzXbALvPUL",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084535593542082561",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "es"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 228197973,
+      "id_str": "228197973",
+      "name": "Mar\u00eda Sahuquillo",
+      "screen_name": "mrsahuquillo",
+      "location": "Mosc\u00fa, Rusia",
+      "description": "Moscow chief correspondent for @el_pais | Previously in Bucuresti, Bruxelles & Madrid | Feminist | Write me at mrsahuquillo@elpais.es",
+      "url": "https:\/\/t.co\/ox9p4E3rC6",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/ox9p4E3rC6",
+            "expanded_url": "https:\/\/elpais.com\/autor\/maria_rodriguez_sahuquillo\/",
+            "display_url": "elpais.com\/autor\/maria_ro\u2026",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7906,
+      "friends_count": 1071,
+      "listed_count": 304,
+      "created_at": "Sun Dec 19 01:06:21 +0000 2010",
+      "favourites_count": 3364,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 6283,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1081124296154595328\/rmLFWTqE_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1081124296154595328\/rmLFWTqE_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/228197973\/1539634072",
+      "profile_link_color": "8757CF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 134,
+    "favorite_count": 141,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  }, {
+    "created_at": "Mon Jan 14 11:07:09 +0000 2019",
+    "id": 1084768877568016385,
+    "id_str": "1084768877568016385",
+    "text": "Our report 'LGBT+ people\u2019s experiences of domestic abuse' draws on 4 years &amp; over 600 cases of in depth work with\u2026 https:\/\/t.co\/rOyS8t7Gww",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/rOyS8t7Gww",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084768877568016385",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [119, 142]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 395368385,
+      "id_str": "395368385",
+      "name": "Galop",
+      "screen_name": "GalopUK",
+      "location": "London",
+      "description": "The UK's LGBT+ anti-violence charity, combating hate crime, sexual violence & domestic abuse.",
+      "url": "https:\/\/t.co\/wbHrj8v0RV",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/wbHrj8v0RV",
+            "expanded_url": "http:\/\/www.galop.org.uk",
+            "display_url": "galop.org.uk",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9086,
+      "friends_count": 2820,
+      "listed_count": 203,
+      "created_at": "Fri Oct 21 15:15:51 +0000 2011",
+      "favourites_count": 1506,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3180,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFB60F",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme18\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme18\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/930008756330647552\/5xWdyyGN_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/930008756330647552\/5xWdyyGN_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/395368385\/1510917012",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 44,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Mon Jan 14 13:34:54 +0000 2019",
+    "id": 1084806062413361152,
+    "id_str": "1084806062413361152",
+    "text": "\u2018Ser #LGBT\ud83c\udff3\ufe0f\u200d\ud83c\udf08 significa lutar contra preconceito e #viol\u00eancia todo dia\u2019, diz ativista cabo-verdiana\n\nHelen Tavares\u2026 https:\/\/t.co\/R84i14tR2m",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "LGBT",
+        "indices": [5, 10]
+      }, {
+        "text": "viol\u00eancia",
+        "indices": [52, 62]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/R84i14tR2m",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084806062413361152",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "pt",
+      "result_type": "popular"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 57763444,
+      "id_str": "57763444",
+      "name": "ONU Brasil",
+      "screen_name": "ONUBrasil",
+      "location": "",
+      "description": "Perfil oficial das Na\u00e7\u00f5es Unidas no Brasil.",
+      "url": "http:\/\/t.co\/ADGgNE5SIq",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/ADGgNE5SIq",
+            "expanded_url": "http:\/\/www.onu.org.br",
+            "display_url": "onu.org.br",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 301590,
+      "friends_count": 1153,
+      "listed_count": 1928,
+      "created_at": "Fri Jul 17 21:30:52 +0000 2009",
+      "favourites_count": 1522,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 62471,
+      "lang": "pt",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/675386986450948097\/Wcn73L4s_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/675386986450948097\/Wcn73L4s_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/57763444\/1510101538",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D3DFED",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 91,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+  }, {
+    "created_at": "Mon Jan 14 14:48:15 +0000 2019",
+    "id": 1084824521738194946,
+    "id_str": "1084824521738194946",
+    "text": "Unfassbar. Pawel Adamowicz, B\u00fcrgermeister von #Gdansk, ist nach Messerangriff gestorben. \n\nEin liberaler Geist, ein\u2026 https:\/\/t.co\/2aT0uVwRt5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "Gdansk",
+        "indices": [46, 53]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/2aT0uVwRt5",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084824521738194946",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "de"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 110368456,
+      "id_str": "110368456",
+      "name": "Kai Gehring",
+      "screen_name": "KaiGehring",
+      "location": "Berlin\/ Essen",
+      "description": "#Gr\u00fcne #Politik #MdB #Bundestag. F\u00fcr #Forschung #Wissenschaft #Hochschule #Bildung #Vielfalt. #Essen #Ruhr #Berlin. #Queer(ulant). #HumanRights-#Aktivist.",
+      "url": "https:\/\/t.co\/9av4bXXg1x",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/9av4bXXg1x",
+            "expanded_url": "http:\/\/www.kai-gehring.de",
+            "display_url": "kai-gehring.de",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7595,
+      "friends_count": 3072,
+      "listed_count": 388,
+      "created_at": "Mon Feb 01 08:55:10 +0000 2010",
+      "favourites_count": 8781,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 8025,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "13701C",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1058374488700674048\/3ATeSqdT_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1058374488700674048\/3ATeSqdT_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/110368456\/1501226032",
+      "profile_link_color": "104C91",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de"
+  }, {
+    "created_at": "Sun Jan 13 12:26:14 +0000 2019",
+    "id": 1084426392597680128,
+    "id_str": "1084426392597680128",
+    "text": "\u6628\u65e5\u306f\u307e\u305f\u307e\u305f\u30b8\u30ec\u30fb\u30b8\u30e7\u30fc\u30cc\u304c\u30d1\u30ea\u3067\u5927\u66b4\u308c\u3001\u5927\u898f\u6a21\u306a\u30ac\u30b9\u7206\u767a\u4e8b\u6545\u3082\u91cd\u306a\u308a\u307e\u3057\u305f\u3002\u305d\u3093\u306a\u4e2d\u3001\u50d5\u306f\u5e7b\u60f3\u306e\u30d1\u30ea\u5e02\u5185\u3067\u8a18\u61b6\u3092\u8fbf\u308b\u65c5\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u8a18\u61b6\u304c\u4eba\u3092\u82e6\u3057\u304f\u3055\u305b\u3001\u8a18\u61b6\u304c\u4eba\u3092\u61d0\u304b\u3057\u304c\u3089\u305b\u308b\u306e\u3067\u3059\u3002\n\n\u4eca\u65e5\u306e\u65e5\u8a18\u3067\u3059\u3002\n\n#\u30de\u30ec\u5730\u533a\u2026 https:\/\/t.co\/lUJkg90dx5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "\u30de\u30ec\u5730\u533a",
+        "indices": [108, 113]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/lUJkg90dx5",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084426392597680128",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [115, 138]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "ja"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 118323241,
+      "id_str": "118323241",
+      "name": "\u8fbb\u4ec1\u6210",
+      "screen_name": "TsujiHitonari",
+      "location": "Paris, France",
+      "description": "\u30d1\u30ea\u5728\u4f4f\u306e\u65e5\u672c\u306e\u7236\u3061\u3083\u3093\u3002Design Stories \u4e3b\u5bb0 https:\/\/t.co\/vNY42kkDLk \u606f\u5b50\u3068\u306f\u3058\u3081\u305fYouTube2G\u30c1\u30e3\u30f3\u30cd\u30eb\u3001https:\/\/t.co\/GurrysNLL1",
+      "url": "https:\/\/t.co\/6aZ2BNXC7p",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/6aZ2BNXC7p",
+            "expanded_url": "http:\/\/www.j-tsuji-h.com\/html\/Topix\/index.htm",
+            "display_url": "j-tsuji-h.com\/html\/Topix\/ind\u2026",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "https:\/\/t.co\/vNY42kkDLk",
+            "expanded_url": "http:\/\/www.designstoriesinc.com\/",
+            "display_url": "designstoriesinc.com",
+            "indices": [31, 54]
+          }, {
+            "url": "https:\/\/t.co\/GurrysNLL1",
+            "expanded_url": "https:\/\/m.youtube.com\/channel\/UC8LNCip_zv44ZIkcTeiYReQ",
+            "display_url": "m.youtube.com\/channel\/UC8LNC\u2026",
+            "indices": [77, 100]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 214105,
+      "friends_count": 1335,
+      "listed_count": 3846,
+      "created_at": "Sun Feb 28 08:57:46 +0000 2010",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 21561,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9C9C9C",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/782959934883373057\/o9bjVtRH_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/782959934883373057\/o9bjVtRH_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/118323241\/1462524486",
+      "profile_link_color": "AD2D46",
+      "profile_sidebar_border_color": "9C9C9C",
+      "profile_sidebar_fill_color": "9C9C9C",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 164,
+    "favorite_count": 1383,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  }, {
+    "created_at": "Mon Jan 14 08:38:50 +0000 2019",
+    "id": 1084731553480142849,
+    "id_str": "1084731553480142849",
+    "text": "La ONG Russian #LGBT Network acaba de denunciar que al menos dos personas han muerto y otras 40 han sido detenidas\u2026 https:\/\/t.co\/0UTgi5hgre",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "LGBT",
+        "indices": [15, 20]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/0UTgi5hgre",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084731553480142849",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [116, 139]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "es"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 6135622,
+      "id_str": "6135622",
+      "name": "DW Espa\u00f1ol",
+      "screen_name": "dw_espanol",
+      "location": "Berlin, Germany",
+      "description": "Periodismo #madeforminds Se\u00f1al en vivo 24\/7: https:\/\/t.co\/ZZ2ZHecW6u & #DWmojo: https:\/\/t.co\/fXCxHMoE91",
+      "url": "https:\/\/t.co\/ECcdsABhng",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/ECcdsABhng",
+            "expanded_url": "http:\/\/www.dw.com\/es\/",
+            "display_url": "dw.com\/es\/",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "https:\/\/t.co\/ZZ2ZHecW6u",
+            "expanded_url": "https:\/\/youtu.be\/NPeHDQeocVk",
+            "display_url": "youtu.be\/NPeHDQeocVk",
+            "indices": [45, 68]
+          }, {
+            "url": "https:\/\/t.co\/fXCxHMoE91",
+            "expanded_url": "http:\/\/goo.gl\/wjasnY",
+            "display_url": "goo.gl\/wjasnY",
+            "indices": [80, 103]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 330624,
+      "friends_count": 130,
+      "listed_count": 3457,
+      "created_at": "Fri May 18 11:40:24 +0000 2007",
+      "favourites_count": 2447,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 87287,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F4F2",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/900335405580550144\/EpLMIlFW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/900335405580550144\/EpLMIlFW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/6135622\/1547043363",
+      "profile_link_color": "0099FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "3E3E3E",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  }, {
+    "created_at": "Tue Jan 15 08:49:56 +0000 2019",
+    "id": 1085096733695242240,
+    "id_str": "1085096733695242240",
+    "text": "Terrible news from #Chechnya #Russia.\n\nNew wave of state sponsored anti-#LGBT violence, with two people reported de\u2026 https:\/\/t.co\/UygQAWxYwc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "Chechnya",
+        "indices": [19, 28]
+      }, {
+        "text": "Russia",
+        "indices": [29, 36]
+      }, {
+        "text": "LGBT",
+        "indices": [72, 77]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/UygQAWxYwc",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1085096733695242240",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 607946179,
+      "id_str": "607946179",
+      "name": "Lotte Leicht",
+      "screen_name": "LotteLeicht1",
+      "location": "Brussels, Belgium",
+      "description": "EU Director, Human Rights Watch. Tweets about human rights, IHL, Int'l law & politics. Passionate skier. Favorite place: where the view has no end!",
+      "url": "http:\/\/t.co\/ThJZivHtSZ",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/ThJZivHtSZ",
+            "expanded_url": "http:\/\/www.hrw.org\/bios\/lotte-leicht",
+            "display_url": "hrw.org\/bios\/lotte-lei\u2026",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 42085,
+      "friends_count": 10555,
+      "listed_count": 1054,
+      "created_at": "Thu Jun 14 08:12:37 +0000 2012",
+      "favourites_count": 8284,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 46888,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/472065500613079040\/lc1VyrFU_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/472065500613079040\/lc1VyrFU_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/607946179\/1401383755",
+      "profile_link_color": "005FB3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Mon Jan 14 09:56:36 +0000 2019",
+    "id": 1084751122756190208,
+    "id_str": "1084751122756190208",
+    "text": "#LGBT activists in #Russia again sounding the alarm about Chechnya: \n\nAnother purge has begun in the republic after\u2026 https:\/\/t.co\/Q16UMaaBXh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [{
+        "text": "LGBT",
+        "indices": [0, 5]
+      }, {
+        "text": "Russia",
+        "indices": [19, 26]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/Q16UMaaBXh",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084751122756190208",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 465938540,
+      "id_str": "465938540",
+      "name": "Matthew Kupfer",
+      "screen_name": "Matthew_Kupfer",
+      "location": "Ukraine",
+      "description": "Journalist, @KyivPost | Formerly: @Hromadske, @MoscowTimes @TheOdessaReview+ | Tweeting Ukraine, Russia, Central Asia |",
+      "url": "https:\/\/t.co\/naVqPqMlZq",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/naVqPqMlZq",
+            "expanded_url": "https:\/\/www.kyivpost.com\/author\/matthew-kupfer",
+            "display_url": "kyivpost.com\/author\/matthew\u2026",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5046,
+      "friends_count": 961,
+      "listed_count": 316,
+      "created_at": "Mon Jan 16 22:04:50 +0000 2012",
+      "favourites_count": 4211,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19802,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000088234756\/df8ebb0924846fab2e8727875cf3498d_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000088234756\/df8ebb0924846fab2e8727875cf3498d_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/465938540\/1484297662",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Mon Jan 14 15:56:55 +0000 2019",
+    "id": 1084841801444483072,
+    "id_str": "1084841801444483072",
+    "text": "\u201cWe are horrified by reports that at least two people have been tortured to death. We urgently need an internationa\u2026 https:\/\/t.co\/cwPNFgKM9p",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/cwPNFgKM9p",
+        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1084841801444483072",
+        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+        "indices": [117, 140]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"https:\/\/ads-api.twitter.com\" rel=\"nofollow\"\u003eTwitter Ads Composer\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16309025,
+      "id_str": "16309025",
+      "name": "Amnesty Ireland",
+      "screen_name": "AmnestyIreland",
+      "location": "Dublin, Ireland",
+      "description": "Ireland's largest human rights organisation, 20,000 strong. Freedom. Justice. Equality. Let's get to work! Retweets not necessarily an endorsement.",
+      "url": "https:\/\/t.co\/UCyw64xYif",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/UCyw64xYif",
+            "expanded_url": "http:\/\/www.amnesty.ie",
+            "display_url": "amnesty.ie",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 29211,
+      "friends_count": 5089,
+      "listed_count": 526,
+      "created_at": "Tue Sep 16 10:24:40 +0000 2008",
+      "favourites_count": 1196,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15018,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1029285746392346624\/X6Iiy5xv_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1029285746392346624\/X6Iiy5xv_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/16309025\/1535535375",
+      "profile_link_color": "696969",
+      "profile_sidebar_border_color": "FFF200",
+      "profile_sidebar_fill_color": "F0F0F0",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "created_at": "Tue Jan 15 00:30:10 +0000 2019",
+    "id": 1084970965937864705,
+    "id_str": "1084970965937864705",
+    "text": "Activists Say 40 Detained And 2 Dead In New Gay Purge In Chechnya #LGBT #Chechnya \ud83c\udff3\ufe0f\u200d\ud83c\udf08\n\nhttps:\/\/t.co\/ShjbTd1KiH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [{
+        "text": "LGBT",
+        "indices": [66, 71]
+      }, {
+        "text": "Chechnya",
+        "indices": [72, 81]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/ShjbTd1KiH",
+        "expanded_url": "https:\/\/www.npr.org\/2019\/01\/14\/685192372\/activists-say-40-detained-and-2-dead-in-gay-purge-in-chechnya",
+        "display_url": "npr.org\/2019\/01\/14\/685\u2026",
+        "indices": [88, 111]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20341657,
+      "id_str": "20341657",
+      "name": "Rob McDowall",
+      "screen_name": "robmcd85",
+      "location": "Glasgow, Scotland",
+      "description": "EUCCTI Rapporteur \/ Scottish Social Security & Poverty Policy Panel \/ Chair @WelfareScotland \/ Member Equality Council \/ #PridePowerList16 \/\n\u267f\ufe0f \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\uddea\ud83c\uddfa",
+      "url": "https:\/\/t.co\/pf8t8lHHXT",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/pf8t8lHHXT",
+            "expanded_url": "https:\/\/www.mcdowall.me",
+            "display_url": "mcdowall.me",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 62010,
+      "friends_count": 49921,
+      "listed_count": 938,
+      "created_at": "Sat Feb 07 23:52:46 +0000 2009",
+      "favourites_count": 101998,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 36299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0F1052",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1080322588822433792\/K-XYSR41_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1080322588822433792\/K-XYSR41_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/20341657\/1546436383",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }],
+  "search_metadata": {
+    "completed_in": 0.051,
+    "max_id": 0,
+    "max_id_str": "0",
+    "query": "%23lgbt",
+    "count": 25,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
