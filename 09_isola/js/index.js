@@ -1,3 +1,11 @@
+// Irene Trotta @iretrtr © 2018 MIT License
+// Digital cartography and ethnographic survey of online communities
+// online-community-maps 9 | Città San't Angelo, IT | 3.2019
+// Educational purpose, master graduation project prototype
+
+//what if online communities could be real places? how would their map be?
+//prototype > create a map from/with subreddit community data
+
 //var num_utenti = numRandom(10000);
 var num_utenti = 20000;
 var num_topics;
