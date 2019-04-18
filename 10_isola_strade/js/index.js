@@ -1,3 +1,11 @@
+// Irene Trotta @iretrtr © 2018 MIT License
+// Digital cartography and ethnographic survey of online communities​
+// online-community-maps 10 | roads | Città San't Angelo, IT | 3.2019
+// Educational purpose, master graduation project prototype
+
+//what if online communities could be real places? how would their map be?
+//prototype > create a map from/with subreddit community data
+
 var consonanti = ['b','c','d','f','g','h','q','r','v','z','p','t','k','m','n','s','l','y','x'];
 var vocali = ['a','e','i','o','u'];
 
@@ -18,6 +26,7 @@ var mountains =[];
 var hills = [];
 var lowland =[];
 var diagram = [];
+var heightmap_3d = [];
 
 // CARICA FILE JSON
 var getJSON = function(url, callback) {
@@ -195,6 +204,7 @@ function draw(){
     var altezza = mapped_likes[n],
         estensione = mapped_comments[n],
         sharpness = 0.1;
+        console.log(estensione);
         coda = [], // poligoni da controllare
         used = []; // poligoni usati
         //costa = [];
@@ -269,8 +279,14 @@ function draw(){
           //visualizza nome dell'utente che ha creato il topic
           text.append('text')
           .attr('x', punto[0])
+          .attr('y', punto[1] + 15)
+          .text(nameGenerator(timeline[0].authorTopic, n))
+          .attr('font-family', 'sans-serif');
+          //visualizza titolo tipic
+          text.append('text')
+          .attr('x', punto[0])
           .attr('y', punto[1])
-          .text(nameGenerator(timeline[0].authorTopic, n))//+ " user " + timeline[0].authorTopic[n]
+          .text(nameGenerator(timeline[0].titleTopic, n))
           .attr('font-family', 'sans-serif');
         //console.log(n);
         crea_isola(n, x_y);
@@ -303,8 +319,14 @@ function draw(){
           //visualizza nome dell'utente che ha creato il topic
           text.append('text')
           .attr('x', punto[0])
-          .attr('y', punto[1])
+          .attr('y', punto[1] + 10)
           .text(nameGenerator(timeline[0].authorTopic, n))//+ " user " + timeline[0].authorTopic[n]
+          .attr('font-size', '9')
+          .attr('font-family', 'sans-serif');
+          text.append('text')
+          .attr('x', punto[0])
+          .attr('y', punto[1])
+          .text(nameGenerator(timeline[0].titleTopic, n))
           .attr('font-size', '9')
           .attr('font-family', 'sans-serif');
           crea_isola(n, x_y);
@@ -333,7 +355,7 @@ function draw(){
     for (var n = 0; n < cities_coord.length; n++){
       for (var i = 0; i < n; i++){
         if (n == i){
-          i = i
+          i = i;
         }else if(cities_coord[n].tagClassAuthor == cities_coord[i].tagClassAuthor && cities_coord[n].tagClassAuthor !== null){
           var roadData = [ { "x": cities_coord[n][0], "y": cities_coord[n][1]},
                            { "x": cities_coord[i][0], "y": cities_coord[i][1]}];
@@ -360,15 +382,22 @@ function draw(){
 }
 
 function smista_poligoni(){
+  land = [];
+  heightmap_3d = [];
   //una volta generati tutti i poligoni, considerata la loro altezza questi vengono smistati in 4 array mountains, hills, lowland, water
   //divisione necessaria per un'eventuale l'assegnazione di icone per il riconoscimento della morfologia del territorio nel caso di una visualizzazione "politica" della mappa
-  for (n=1; n<polygons.length; n++){
+  for (n=0; n<polygons.length; n++){
+    heightmap_3d.push(polygons[n].data);
+    heightmap_3d[n].altezza = polygons[n].altezza;
     if(polygons[n].altezza >= 0.9){
       mountains.push(polygons[n]);
     }else if(polygons[n].altezza >= 0.4 && polygons[n].altezza < 0.9){
       hills.push(polygons[n]);
     }else if(polygons[n].altezza >= limite && polygons[n].altezza < 0.4){
       lowland.push(polygons[n]);
+    }else if(polygons[n].altezza > 0){
+      land.push(polygons[n]);
+      land[land.length - 1].altezza = polygons[n].altezza;
     }else{
       water.push(polygons[n]);
     }
@@ -408,7 +437,7 @@ function nameGenerator(g, i){
     nuoveConsonanti = [consonanti[numRandom(consonanti.length)], consonanti[numRandom(consonanti.length)]];
   }
   //se la quantità delle consonanti è minore di 3 o il numero di vocali minore di 2
-  //genero una parola con una sillaba solo
+  //genero una parola con una sillaba sola
   if (parola.length < 10){
     var c1 = nuoveConsonanti[0];
     var v1 = nuoveVocali[0];
