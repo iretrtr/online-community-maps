@@ -1,6 +1,6 @@
 // Irene Trotta @iretrtr © 2018 MIT License
 // Digital cartography and ethnographic survey of online communities​
-// online-community-maps 10 | roads | Città San't Angelo, IT | 3.2019
+// online-community-maps 10 | roads | Città Sant' Angelo, IT | 3.2019
 // Educational purpose, master graduation project prototype
 
 //what if online communities could be real places? how would their map be?
