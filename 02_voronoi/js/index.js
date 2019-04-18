@@ -1,6 +1,6 @@
 // Irene Trotta @iretrtr © 2018 MIT License
-// Digital cartography and ethnographic survey of online communities​
-// online-community-maps 2 | voronoi | Città San't Angelo, IT | 2.2019
+// Digital cartography and ethnographic survey of online communities
+// online-community-maps 2 | voronoi | Città San't Angelo, IT | 12.2018
 // Educational purpose, master graduation project prototype
 //
 // what if online communities could be real places? how would their map be?
