@@ -1,11 +1,3 @@
-// Irene Trotta @iretrtr © 2018 MIT License
-// Digital cartography and ethnographic survey of online communities​
-// online-community-maps 10 | roads | Città Sant' Angelo, IT | 3.2019
-// Educational purpose, master graduation project prototype
-
-//what if online communities could be real places? how would their map be?
-//prototype > create a map from/with subreddit community data
-
 var consonanti = ['b','c','d','f','g','h','q','r','v','z','p','t','k','m','n','s','l','y','x'];
 var vocali = ['a','e','i','o','u'];
 
