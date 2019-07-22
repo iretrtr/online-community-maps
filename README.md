@@ -2,6 +2,8 @@
 ## Cartografia digitale e indagine etnografica di comunità online.<br>Metodi, approcci e prototipi.
 (Università degli Studi della Repubblica di San Marino / Corso di Laurea Magistrale in Design / A.A. 2017 - 2018 / Laureanda: Irene Trotta / Relatore: Daniele Tabellini)
 
+**[launch / open](https://iretrtr.github.io/uncharted_community_map_generator/)** (latest prototype)
+
 *Cartografia digitale e indagine etnografica di comunità online: metodi, approcci e prototipi* esplora il campo della cartografia legata alle online community.
 
 L’idea di delineare mappe di comunità online basate sui dati generati dalle comunità stesse nasce dal desiderio di raccontare i luoghi di aggregazione sul web come luoghi a tutti gli effetti assegnando loro un territorio che si forma ed evolve grazie alle interazioni tra utenti. Per elaborare uno strumento capace di generare cartografie di luoghi non concreti sono state esplorate e approfondite due aree di studio principali: una legata alla cartografia, alla sua storia, ai suoi metodi e alle mappe “fantastiche” prodotte per scopi narrativi o utilizzate per la comunicazione di idee, concetti e credenze; l’altra che si focalizza sulle comunità e sul modo in cui il senso di comunità è cambiato con l’evoluzione tecnologica e la nascita di strumenti, come il web, che permettono di accorciare le distanze fino ad annullarle completamente, creando nuovi luoghi virtuali di aggregazione considerati, da chi li frequenta, totalmente reali.
