@@ -20,8 +20,8 @@ L’idea di realizzare un tool capace di generare terre, isole, mappe verosimili
 
 La ricerca e gli esperimenti di prototipazione hanno portato a riflettere sui molteplici campi di indagine che la progettazione di uno strumento per la generazione di mappe e terre frutto dei dati di comunità online, apre.
 
-![prototipo numero 09](https://i.imgur.com/zUoec3v.png)
-![prototipo numero 04](https://i.imgur.com/xqdMsXS.png)
+![uncharted_community_map_generator](https://i.imgur.com/db9Yj8t.png)
+![piracy map & politics map](https://i.imgur.com/EUEANhL.png)
 > Immagini di prototipo.
 ___
 
